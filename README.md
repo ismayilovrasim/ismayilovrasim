@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ismayilovrasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismayilovrasim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismayilovrasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismayilovrasim" height="30" width="40" /></a>
-<a href="https://t.me/ismayilow" ><img aligin="center: src="https://ru.wikipedia.org/wiki/Telegram#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/ismayilow" ><img aligin="center: src="https://d1jj76g3lut4fe.cloudfront.net/thumb/480/processed/thumb/H9NtH33fWEr0n7Y4Ru.png?Expires=1696189210&Signature=IDZeK0Ft68ThD-wLv8kS00JxuAx9EEa0FIvgkcKfq7ozovHnOD~otNQPO9HSUbItjRMGLYQ9RRfOFdWjXixUW9wEjSfjJ-dpDxaBRbspsOeoKvnieZ-wuHMaD9ObHvJXn2dIxzxhP1WFq7Y2M3qYOgbg6LQ8G2sWyUrFQz5qoNoTRrGFOzQCv1Na5IN9SeDrBBP6vOQ4YdaODtKwmcqcwL1aLMaTwKLbxsZBUpaGlsVdiPz49geWZULTT7PljfYWN8kyoN4i5gLP5BHqIOf5W-E95yWsfJCT6n90ZqZRNU77yI64TCY8qwhlyojsVPpC3xagw9BwCvg-pobP4PTabw__&Key-Pair-Id=K2YEDJLVZ3XRI" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
